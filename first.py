@@ -33,4 +33,6 @@ return a if (a>b) else b
 Immutable i.e, tuples cannot be changed 
 syntax a=(1,"be",2.5)
 del function throws error 
+
+To be continued from Tuples
     
